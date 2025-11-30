@@ -1,13 +1,16 @@
 # DTU Reimagined
-<img width="1433" height="747" alt="Screenshot 2025-12-01 at 2 39 56 AM" src="https://github.com/user-attachments/assets/6187eb04-19f4-49eb-8725-357c2bbac50c" />
 
+<img width="1433" height="747" alt="Screenshot 2025-12-01 at 2 39 56 AM" src="https://github.com/user-attachments/assets/6187eb04-19f4-49eb-8725-357c2bbac50c" />
 
 A modern, professional website for Delhi Technological University featuring an elegant Ivy League-inspired design and AI-powered campus assistant.
 
-![DTU Campus](public/images/dtu%20campus%20.jpg)
 
-## 🎨 Design Philosophy
+##  Design Philosophy & Why
 
+I Just wanted to make something which I'll love as a user to exprience - either I am a DTU Student, Professor, Student from outside DTU etc. I myself have seen and faced the bugs in the offical site and as a creative person I really cant help but dont like the DTU's website. I never imagined i'll make it one day but here we are I made this almost mock (cuz everything in this site has, is real) and is ready to be published. I'll show this site to Dean UG today - Monday, 01 Dec 2025 and let's see what they thinks. I made this site so that people can just see for themselves and i wont be needing to share mockups to them. Its more convinent that way. So i made this after almost completing the 1st draft then i had to restart - from the beggning. it was super exausting in every way. My maschine got so hot i rmemeber this. moving on, so this si the end product, yes there are many things i still want to change in this but for version 1 mvp - im really proud how this turned out. Alhmdulilah for everything and blessing. I couldnt have done it without the help of Allah, one true God! Who has no offspring, no wife, he is offspring of none, no partner - he is one, alone and there is none like him. May Allah guide me, make me sucessful and benifical for muslims and the worlds. Aammen
+
+
+## 🌱About Aesthetics
 This project follows a sophisticated **Ivy League** aesthetic with strict design principles:
 
 - **Color Palette**: Monochrome (Black/White/Gray) + DTU Red (#8C1515) accents only
@@ -170,6 +173,9 @@ MIT License - feel free to use this project as inspiration for your own universi
 For questions or collaboration:
 - GitHub: [@supzammy](https://github.com/supzammy)
 - LinkedIn: [Zammy](https://www.linkedin.com/in/zammy/)
+
+![DTU Campus](public/images/dtu%20campus%20.jpg)
+
 
 ---
 
