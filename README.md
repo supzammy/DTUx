@@ -1,4 +1,6 @@
 # DTU Reimagined
+<img width="1433" height="747" alt="Screenshot 2025-12-01 at 2 39 56 AM" src="https://github.com/user-attachments/assets/6187eb04-19f4-49eb-8725-357c2bbac50c" />
+
 
 A modern, professional website for Delhi Technological University featuring an elegant Ivy League-inspired design and AI-powered campus assistant.
 
